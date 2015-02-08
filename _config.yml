@@ -1,5 +1,5 @@
 # Site settings
-title: poxip's blog
+title: poxipd
 email: michal.proszek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about programming, gamedev, backends, frontends, games, etc.
