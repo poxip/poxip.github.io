@@ -7,7 +7,7 @@ permalink: /about/
 _My name is **Michal Proszek**, also known as **poxip**._
 
 # Interests
-Well..as this blog is mainly about programming - it must be programming (including gamedev and other IT stuff),
+Well..as this blog is mainly about programming - they must be programming (including gamedev and other IT stuff),
 some gaming, but also sports (mainly soccer), good movies, music.
 
 # This blog
