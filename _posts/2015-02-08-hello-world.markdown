@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello word!"
 date:   2015-02-08 22:50:00
-categories: jekyll update
+categories: thoughts blog
 ---
 Ah, it seems to be a hello world post? Yeah it's.
 
