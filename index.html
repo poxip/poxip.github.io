@@ -14,6 +14,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <span class="post-part-content">
+            {{ post.content | truncatewords, 50, '<a class="post-part-more-btn" href="post.url | prepend: site.baseurl">..more.</a>' }}
+        </span>
       </li>
     {% endfor %}
   </ul>
