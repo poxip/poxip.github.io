@@ -16,11 +16,11 @@ Finally, I have a place, that I can use for my
 ...blah, blah, blah
 
 Briefly: This blog'd be (or is) about my ideas,
-thoughts, about games, programming (probably lots of Python, JS/NodeJS, C++)
-and it's a dev log of mine.
+thoughts, games, programming (probably lots of Python, JS/NodeJS, C++)
+and it's a bit a devlog of mine.
 
 This site is built with [Jekyll](http://jekyllrb.com/) (even if I'm not a big fan of Ruby.. --
-but Jekyll is quite good and works on GitHub pages).
+but Jekyll is quite good).
 
 # Where to find me
 * [GitHub](//github.com/poxip)
