@@ -4,11 +4,11 @@
 @charset "utf-8";
 
 // Fonts
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro:400,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
 
 // Our variables
-$base-serif-font-family:  'Source Serif Pro', serif;
-$base-sans-font-family:   'Source Sans Pro', sans-serif;
+$base-serif-font-family:  serif;
+$base-sans-font-family:   'Raleway', sans-serif;
 
 $base-font-family:        $base-sans-font-family;
 $base-font-size:          16px;
@@ -17,7 +17,7 @@ $base-line-height:        1.5;
 
 $spacing-unit:            30px;
 
-$post-body-font-family:   $base-serif-font-family;
+$post-body-font-family:   $base-sans-font-family;
 
 $text-color:              #111;
 $background-color:        #fdfdfd;

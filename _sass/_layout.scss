@@ -167,6 +167,7 @@
 
 .page-heading {
     font-size: 20px;
+    text-align: left;
 }
 
 .post-list {
@@ -186,6 +187,8 @@
 .post-link {
     display: block;
     font-size: 24px;
+
+    text-align: left;
 }
 
 
@@ -201,6 +204,8 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+
+    text-align: center;
 
     @include media-query($on-laptop) {
         font-size: 36px;
