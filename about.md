@@ -10,6 +10,8 @@ _My name is **Michal Proszek**, also known as **poxip**._
 Well..as this blog is mainly about programming - they (the interests) must be in programming circle (including gamedev and other IT stuff),
 but also some gaming, sports (mainly soccer), good movies, music.
 
+And [here is my résumé/CV](/resume.pdf).
+
 # This blog
 **What's this blog about?**
 Finally, I have a place, that I can use for my
