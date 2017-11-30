@@ -4,24 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <article class="post-content post-part-content">
-            {{ post.content | truncatewords, 50}}
-            <a class="post-part-more-btn" href="{{ post.url }}">more.</a>
-        </article>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <h1 class="page-heading">Michał Proszek (poxip)</h1>
+  <p><a href="//resume.pdf">resume.pdf</a> (probably outdated, go for the <a href="https://www.linkedin.com/in/michal-proszek-609858b7/">LinkedIn profile</a>)</p>
+  
 </div>
