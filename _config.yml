@@ -1,8 +1,7 @@
 # Site settings
 title: poxipd
 email: "&#109;&#105;&#099;&#104;&#097;&#108;&#046;&#112;&#114;&#111;&#115;&#122&#101;&#107;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
-description: > # this means to ignore newlines until "baseurl:"
-  A blog about programming, gamedev, backends, frontends, games, etc.
+description: xd
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://poxip.github.io" # the base hostname & protocol for your site
 github_username:  poxip
