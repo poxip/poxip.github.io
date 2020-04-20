@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poxipd</title>
+    <description>A blog about programming, gamedev, backends, frontends, games, etc.
+</description>
+    <link>http://poxip.github.io/</link>
+    <atom:link href="http://poxip.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 08 Feb 2016 23:47:47 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 23:47:47 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>It&#39;s been a year..</title>
+        <description>&lt;p&gt;&lt;strong&gt;It’s been a year&lt;/strong&gt; since I created this superuseful, adorable blog.
+I benefit from it all the time. First of all, I want to say “Thank You” to all my readers (including my dog and fridge, WTF).&lt;/p&gt;
+
+&lt;p&gt;Secondly, Ima set myself some challenges for the next year:
+* more posts, at least 3
+* more money
+* SWAG&lt;/p&gt;
+
+&lt;p&gt;I think that’s all for now, ttyl.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;(yas, it’s a joke.)&lt;/small&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 23:47:00 +0100</pubDate>
+        <link>http://poxip.github.io/thoughts/2016/02/08/its-been-a-year.html</link>
+        <guid isPermaLink="true">http://poxip.github.io/thoughts/2016/02/08/its-been-a-year.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello word!</title>
+        <description>&lt;p&gt;Ah, it seems to be a hello world post? Yeah it’s.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-did-i-create-this-blog&quot;&gt;Why did I create this blog?&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Long long&lt;/em&gt; time ago (about half a year or more, sic!) I was thinking of a place for my personal thoughts,
+to share my programming experiences, etc..So here it is.&lt;/p&gt;
+
+&lt;p&gt;I think that’s all what I wanted to say in this short entry and hmm..
+There’ll be more posts, so you can &lt;a href=&quot;/feed.xml&quot;&gt;subscribe via RSS&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Feb 2015 23:50:00 +0100</pubDate>
+        <link>http://poxip.github.io/thoughts/blog/2015/02/08/hello-world.html</link>
+        <guid isPermaLink="true">http://poxip.github.io/thoughts/blog/2015/02/08/hello-world.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
